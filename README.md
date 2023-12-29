@@ -6,6 +6,7 @@ Ready to embrace the honktastic mayhem?
 1. Go to https://agenericapple.github.io/goose
 2. Click the Goose
 3. Enjoy!
+
 And there you have it! Your desktop is now under the watchful eyes (and honks) of the mischievous Goose.
 
 ## Uninstallation
