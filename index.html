@@ -34,8 +34,19 @@
 </style>
 <body>
   <main scroll="no" style="overflow: hidden">
-    <img src="duck.png" onclick="download()">
-    <p>press goose to install</p>
+    <script>
+      function isMacOS() {
+        return navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+      }
+
+      if (isMacOS()) {
+        document.write('<img src="goose.png" onclick="download()">');
+        document.write('<p>press goose to install</p>');
+      } else {
+        document.write('<img src="nogoose.png" onclick="download()">');
+        document.write('<p>macOS only.</p>');
+      }
+    </script>
   </main>
   <script>
     function download() {
