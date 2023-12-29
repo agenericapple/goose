@@ -1,6 +1,4 @@
 # goose
-
-## What is Goose?
 Goose is your ticket to desktop chaos with a twist of avian absurdity. Simply put, it's an app that introduces an evil, annoying, yet irresistibly cute goose to your digital realm.
 Ready to embrace the honktastic mayhem?
 
