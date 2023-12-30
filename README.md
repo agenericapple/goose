@@ -2,6 +2,9 @@
 Goose is your ticket to desktop chaos with a twist of avian absurdity. Simply put, it's an app that introduces an evil, annoying, yet irresistibly cute goose to your digital realm.
 Ready to embrace the honktastic mayhem?
 
+## BadUSB
+There are a few messages in german. (Eigentlich ned des is Wienerisch - Sag a mal bist deppat oda wos?) if ykyk
+
 ## Installation
 1. Go to https://agenericapple.github.io/goose
 2. Click the Goose
