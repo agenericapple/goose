@@ -41,24 +41,24 @@
       }
 
       if (isMacOS()) {
-        document.write('<img src="duck.png" onclick="download()">');
+        document.write('<img src="/assets/duck.png" onclick="download()">');
         document.write('<p>press goose to install</p>');
       } else {
-        document.write('<img src="noduck.png" onclick="honk()">');
+        document.write('<img src="/assets/noduck.png" onclick="honk()">');
         document.write('<p>macOS only.</p>');
       }
     </script>
   </main>
   <script>
     function honk() {
-      var audio = new Audio('honk.mp3');
+      var audio = new Audio('/assets/honk.mp3');
       audio.play();
     }
 
     function download() {
       honk();
       console.log("starting download");
-      window.open("https://agenericapple.github.io/goose/Goose.dmg");
+      window.open("https://agenericapple.github.io/goose/assets/Goose.dmg");
       console.log("download complete");
     }
   </script>
