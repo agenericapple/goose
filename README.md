@@ -19,6 +19,14 @@ You'll figure it out!
 - A sense of humor (non-negotiable).
 - Wifi i guess
 
+### Windows!
+If you **reaaaaaally** want a windows version than go sift through the BadUSB files and you'll be able to get it.
+(The BadUSB thingy is really cool though.)
+
+## Credits
+- samperson for the Goose [Link](htttps://samperson.itch.io)
+- IAmJakoby for the BadUSB Idea [Link](https://github.com/I-Am-Jakoby)
+
 ## Support or Contact
 Need assistance navigating the honk-filled journey? Sucks to be you! Because support went on strike and is not coming back.
 
