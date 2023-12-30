@@ -24,7 +24,7 @@ If you **reaaaaaally** want a windows version than go sift through the BadUSB fi
 (The BadUSB thingy is really cool though.)
 
 ## Credits
-- samperson for the Goose [Link](htttps://samperson.itch.io)
+- samperson for the Goose [Link](https://samperson.itch.io)
 - IAmJakoby for the BadUSB Idea [Link](https://github.com/I-Am-Jakoby)
 
 ## Support or Contact
